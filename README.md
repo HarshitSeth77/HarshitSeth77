@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshitSeth77
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Instagram
 - 📫 How to reach me intagram ID - harshitseth_77
 
 <!---
