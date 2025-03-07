@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarshitSeth77
+- 👋 Hi, I’m Harshit Seth
 - 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently learning Data Science,Ml,Data Visualization etc
 - 💞️ I’m looking to collaborate on LinkedIn, Instagram
