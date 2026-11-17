@@ -1,11 +1,18 @@
-- 👋 Hi, I’m Harshit Seth
-- 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m currently learning Data Science,Ml,Data Visualization etc
-- 💞️ I’m looking to collaborate on LinkedIn, Instagram
-- 📫 How to reach me LinkedIn ID - www.linkedin.com/in/harshitseth77
-- 📫 How to reach me intagram ID - harshitseth_77
+# Hi, I'm Harshit Seth 👋
 
-<!---
-HarshitSeth77/HarshitSeth77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm interested in **Data Science** and **Data Analysis**, and I'm currently learning machine learning and data visualization.
+
+## Areas I'm exploring
+
+- Data analysis and visualization
+- Data science and machine learning
+- Python and Jupyter notebooks
+
+## GitHub
+
+I use this profile to share learning resources, notebooks, and projects as I build my skills. Some repositories are forks of community resources; original work will be clearly identified in each project.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/harshitseth77)
+- Instagram: [@harshitseth_77](https://www.instagram.com/harshitseth_77)
