@@ -23,6 +23,12 @@ MCA graduate from Guru Gobind Singh Indraprastha University (CGPA 9.4/10), with 
 - **Blinkit Interactive Sales Dashboard** — Analyzed 8,500+ transactions in Power BI and Excel, with interactive sales and outlet KPI views.
 - **ValueMyCar: Car Price Prediction** — Engineered vehicle age and depreciation features; compared Ridge and Linear Regression.
 
+## Handshake / Dynamo Contributions
+
+- Developed and refined benchmark task submissions across machine learning, model training, and software engineering.
+- Worked on task instructions, solution workflows, and automated evaluation coverage.
+- Public profile summary only; benchmark source code, test data, and hidden evaluation materials are not included here.
+
 ## Education & Recognition
 
 - **MCA**, Guru Gobind Singh Indraprastha University — CGPA 9.4/10 (2024–2026)
